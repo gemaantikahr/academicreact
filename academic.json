@@ -1,0 +1,53 @@
+{
+  "students": [
+    {
+      "0": {
+        "id": "1",
+        "student_id": "",
+        "student_name": "",
+        "student_email": ""
+      },
+      "id": 1568181578284,
+      "student_id": "1600018095",
+      "student_name": "Gema Antika Hariadi",
+      "student_email": "gemaantikahr@gmail.com"
+    },
+    {
+      "0": {
+        "id": "1",
+        "student_id": "",
+        "student_name": "",
+        "student_email": ""
+      },
+      "id": 1568191632145,
+      "student_id": "asd",
+      "student_name": "asd",
+      "student_email": "asd@gmail.com"
+    }
+  ],
+  "lectures": [
+    {
+      "0": {
+        "id": "",
+        "lecture_id": "",
+        "lecture_name": "",
+        "lecture_email": ""
+      },
+      "id": 1568182364423,
+      "nip": "D02",
+      "lecture_name": "Cinta",
+      "lecture_email": "cinta@gmail.com"
+    }
+  ],
+  "courses": [],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
